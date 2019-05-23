@@ -1049,3 +1049,35 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.05.22-22.49.56:611][496]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.267
 [2019.05.22-22.49.56:611][496]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.267
 [2019.05.22-22.59.59:904][ 46]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Spawn_Cube.Spawn_Cube
+[2019.05.23-12.35.35:061][ 89]LogHttp: Warning: 000002B83F864680: request has been successfully processed. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD6735692-4858-1641-7BAC-31AFBDBA24A2%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.1-4613538%2B%2B%2BUE4%2BRelease-4.21&UserID=379f0cb24c8d93b2ef83a08a51a09225%7C1edf186475ed4478ae941da6c09c919d%7C7ead2d62-4bf1-4f62-9e81-707097fa5fbd&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 502, content length: 138, actual payload size: 138
+[2019.05.23-12.35.35:061][ 89]LogHttp: Warning: 000002B83F864680 Response Header Server: awselb/2.0
+[2019.05.23-12.35.35:061][ 89]LogHttp: Warning: 000002B83F864680 Response Header Date: Thu, 23 May 2019 12:35:34 GMT
+[2019.05.23-12.35.35:061][ 89]LogHttp: Warning: 000002B83F864680 Response Header Content-Type: text/html
+[2019.05.23-12.35.35:061][ 89]LogHttp: Warning: 000002B83F864680 Response Header Content-Length: 138
+[2019.05.23-12.35.35:061][ 89]LogHttp: Warning: 000002B83F864680 Response Header Connection: keep-alive
+[2019.05.23-21.38.42:899][474]LogBlueprint: Warning: [Compiler PersistentLevel.TopDownExampleMap] Variable UI_Spawn is marked as 'Expose on Spawn' but not marked as 'Editable'; please make it 'Editable'
+[2019.05.23-21.38.42:900][474]LogBlueprint: Warning: [Compiler PersistentLevel.TopDownExampleMap] [2923.39] Compile of PersistentLevel.TopDownExampleMap successful, but with 1 Warning(s) [in 8 ms] (/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap)
+[2019.05.23-21.39.49:325][875]LogEditorViewport: Clicking on Actor (LMB): SphereReflectionCapture (SphereReflectionCapture)
+[2019.05.23-21.39.50:533][982]LogEditorViewport: Clicking on Actor (LMB): TargetPoint (TargetPoint)
+[2019.05.23-21.40.18:112][796]LogEditorViewport: Clicking on Actor (LMB): SphereReflectionCapture (SphereReflectionCapture)
+[2019.05.23-21.40.45:904][725]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.23-21.40.46:254][725]LogBlueprint: Warning: [Compiler PersistentLevel.TopDownExampleMap] Variable UI_Spawn is marked as 'Expose on Spawn' but not marked as 'Editable'; please make it 'Editable'
+[2019.05.23-21.40.46:259][725]LogBlueprint: Warning: [Compiler PersistentLevel.TopDownExampleMap] Variable UI_Spawn is marked as 'Expose on Spawn' but not marked as 'Editable'; please make it 'Editable'
+[2019.05.23-21.40.46:264][725]LogBlueprint: Warning: [Compiler PersistentLevel.TopDownExampleMap] [3046.75] Compile of PersistentLevel.TopDownExampleMap successful, but with 2 Warning(s) [in 10 ms] (/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap)
+[2019.05.23-21.40.46:529][725]LogSavePackage: Moving '../../../../../../Users/quint_000/Desktop/SwordHorizonRTS/MyProject3/Saved/TopDownExampleMap_Auto5479B3ABA49119C24A2DB1EB494B54250.tmp' to '../../../../../../Users/quint_000/Desktop/SwordHorizonRTS/MyProject3/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto5.umap'
+[2019.05.23-21.40.46:533][725]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.586
+[2019.05.23-21.40.46:533][725]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.586
+[2019.05.23-21.42.40:688][481]LogEditorViewport: Clicking on Actor (LMB): TargetPoint (TargetPoint)
+[2019.05.23-21.42.40:870][484]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2019.05.23-21.42.41:087][484]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.23-21.42.42:227][599]LogEditorViewport: Clicking on Actor (LMB): TargetPoint (TargetPoint)
+[2019.05.23-21.42.42:764][650]LogEditorViewport: Clicking on Actor (context menu): TargetPoint (TargetPoint)
+[2019.05.23-21.42.42:780][650]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.23-21.42.54:726][745]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.05.23-21.43.03:730][294]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.23-21.50.47:098][241]LogBlueprint: Warning: [Compiler PersistentLevel.TopDownExampleMap] Variable UI_Spawn is marked as 'Expose on Spawn' but not marked as 'Editable'; please make it 'Editable'
+[2019.05.23-21.50.47:102][241]LogBlueprint: Warning: [Compiler PersistentLevel.TopDownExampleMap] Variable UI_Spawn is marked as 'Expose on Spawn' but not marked as 'Editable'; please make it 'Editable'
+[2019.05.23-21.50.47:105][241]LogBlueprint: Warning: [Compiler PersistentLevel.TopDownExampleMap] [3647.59] Compile of PersistentLevel.TopDownExampleMap successful, but with 2 Warning(s) [in 6 ms] (/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap)
+[2019.05.23-21.50.47:314][241]LogSavePackage: Moving '../../../../../../Users/quint_000/Desktop/SwordHorizonRTS/MyProject3/Saved/TopDownExampleMap_Auto6ABE2015E4047C25B1DAFCAB5333ACBF1.tmp' to '../../../../../../Users/quint_000/Desktop/SwordHorizonRTS/MyProject3/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto6.umap'
+[2019.05.23-21.50.47:317][241]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.271
+[2019.05.23-21.50.47:317][241]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.271
